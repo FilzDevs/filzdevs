@@ -29,9 +29,8 @@ c7d8e9f "just one more upgrade"
 | | **Snapmaker U1** | **Qidi Q2** |
 |---|---|---|
 | **Type** | Toolchanger, 4 toolheads, Klipper-based | CoreXY, enclosed |
-| **Role** | Main printer, test bench for [PrintBoard](https://github.com/filzdev/printboard) | _(what do you use it for?)_ |
-| **Cliché** | Four toolheads, zero excuses for single color | The newest one. Honeymoon phase: still no regrets |
-| **My take** | _(your opinion)_ | _(your opinion)_ |
+| **Role** | 🏆 **Main printer.** Does the daily work and is the test bench for [PrintBoard](https://github.com/filzdev/printboard) | Nice-to-have rather than need-to-have: the printer I wanted, not the one I needed |
+| **The Lore** | Four toolheads, zero excuses for single color. Multicolor without swapping filament by hand | Fresh out of the box and a very welcome upgrade to the fleet |
 
 ---
 
@@ -39,61 +38,61 @@ c7d8e9f "just one more upgrade"
 
 ### 🟦 Anycubic
 
-| Model | Type | The cliché | My take |
-|---|---|---|---|
-| i3 Mega S | Bedslinger | The classic gateway printer: "just a few mods" turns into a second hobby | _(...)_ |
-| Kobra 3 Combo | Bedslinger, multicolor (ACE Pro) | Multicolor on a budget, with a side of firmware roulette | _(...)_ |
-| Kobra S1 Combo | CoreXY, enclosed, multicolor (ACE Pro) | For everyone who wanted a Bambu but looked at the price tag | _(...)_ |
+| Model | Type | The Lore |
+|---|---|---|
+| i3 Mega S | Bedslinger | The classic gateway printer: "just a few mods" turns into a second hobby |
+| Kobra 3 Combo | Bedslinger, multicolor (ACE Pro) | Multicolor on a budget, with a side of firmware roulette |
+| Kobra S1 Combo | CoreXY, enclosed, multicolor (ACE Pro) | For everyone who wanted a Bambu but looked at the price tag |
 
 ### 🟩 Bambu Lab
 
-| Model | Type | The cliché | My take |
-|---|---|---|---|
-| A1 mini Combo | Bedslinger, multicolor (AMS lite) | The printer your cousin already owns. Plug, print, repeat | _(...)_ |
-| A1 (with BMCU) | Bedslinger, third-party multicolor (BMCU) | Why pay for the AMS when you can debug a BMCU for fun? | _(...)_ |
-| P2S Combo | CoreXY, enclosed, multicolor (AMS) | Press print, walk away, hope the Wi-Fi is in a good mood | _(...)_ |
-| X1C Combo | CoreXY, enclosed, multicolor (AMS) | The one that started the "it just works" era (and the cloud debates) | _(...)_ |
+| Model | Type | The Lore |
+|---|---|---|
+| A1 mini Combo | Bedslinger, multicolor (AMS lite) | The printer your cousin already owns. Plug, print, repeat |
+| A1 (with BMCU) | Bedslinger, third-party multicolor (BMCU) | Why pay for the AMS when you can debug a BMCU for fun? |
+| P2S Combo | CoreXY, enclosed, multicolor (AMS) | Press print, walk away, hope the Wi-Fi is in a good mood |
+| X1C Combo | CoreXY, enclosed, multicolor (AMS) | The one that started the "it just works" era (and the cloud debates) |
 
 ### 🟧 Creality
 
-| Model | Type | The cliché | My take |
-|---|---|---|---|
-| Ender 3 S1 | Bedslinger, direct drive | Every maker's origin story has an Ender in it | _(...)_ |
-| Ender 3 V3 | CoreXZ | Same name, completely different printer. Ender fans, assemble | _(...)_ |
-| K1 | CoreXY, enclosed, Klipper | Fast out of the box. The first upgrade is already in your cart | _(...)_ |
-| K1C | CoreXY, enclosed, Klipper | The K1, but it knows about carbon fiber | _(...)_ |
+| Model | Type | The Lore |
+|---|---|---|
+| Ender 3 S1 | Bedslinger, direct drive | Every maker's origin story has an Ender in it |
+| Ender 3 V3 | CoreXZ | Same name, completely different printer. Ender fans, assemble |
+| K1 | CoreXY, enclosed, Klipper | Fast out of the box. The first upgrade is already in your cart |
+| K1C | CoreXY, enclosed, Klipper | The K1, but it knows about carbon fiber |
 
 ### 🟨 Elegoo
 
-| Model | Type | The cliché | My take |
-|---|---|---|---|
-| Centauri Carbon | CoreXY, enclosed | The "good price, bring snacks" enclosed CoreXY | _(...)_ |
-| Neptune 4 | Bedslinger, Klipper-based | Klipper speed for pocket money | _(...)_ |
-| Neptune 4 Pro | Bedslinger, Klipper-based | The Neptune 4, but with a "Pro" in the name | _(...)_ |
+| Model | Type | The Lore |
+|---|---|---|
+| Centauri Carbon | CoreXY, enclosed | The "good price, bring snacks" enclosed CoreXY |
+| Neptune 4 | Bedslinger, Klipper-based | Klipper speed for pocket money |
+| Neptune 4 Pro | Bedslinger, Klipper-based | The Neptune 4, but with a "Pro" in the name |
 
 ### ⬛ Mingda
 
-| Model | Type | The cliché | My take |
-|---|---|---|---|
-| Magician X | Bedslinger | "Mingda? Never heard of them." (said everyone, including me) | _(...)_ |
+| Model | Type | The Lore |
+|---|---|---|
+| Magician X | Bedslinger | "Mingda? Never heard of them." (said everyone, including me) |
 
 ### 🟪 Qidi
 
-| Model | Type | The cliché | My take |
-|---|---|---|---|
-| Q1 Pro | CoreXY, enclosed, heated chamber, Klipper | Heated chamber for people who plan to print ABS "someday" | _(...)_ |
+| Model | Type | The Lore |
+|---|---|---|
+| Q1 Pro | CoreXY, enclosed, heated chamber, Klipper | Heated chamber for people who plan to print ABS "someday" |
 
 ### 🔵 Snapmaker
 
-| Model | Type | The cliché | My take |
-|---|---|---|---|
-| J1 | IDEX (independent dual extruders) | Two extruders: double the possibilities, double the things to calibrate | _(...)_ |
+| Model | Type | The Lore |
+|---|---|---|
+| J1 | IDEX (independent dual extruders) | Two extruders: double the possibilities, double the things to calibrate |
 
 ---
 
 ## 🖥️ PC
 
-| Component | Model | The cliché |
+| Component | Model | The Lore |
 |---|---|---|
 | 🧠 CPU | AMD Ryzen 7 9700X | Eight cores, still waiting for the slicer to finish |
 | 🎮 GPU | Sapphire Nitro+ Radeon RX 7800 XT | Powered by pure RGB and good intentions |
@@ -112,9 +111,6 @@ c7d8e9f "just one more upgrade"
 
 **Which one is the best?**
 The one that is currently printing. Not the one that's clogged.
-
-**Is there a printer you wouldn't buy again?**
-_(your honest answer)_
 
 **Will you buy another one?**
 `Works on my machine.` 🙃
