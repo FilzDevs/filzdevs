@@ -22,13 +22,13 @@ More projects coming soon – 3D printing tools, Linux utilities and game-relate
 - **Printers now:** Snapmaker U1, Qidi Q2
 - **Owned over the years:** 19 printers from Anycubic, Bambu Lab, Creality, Elegoo, Mingda, Qidi and Snapmaker
 - **PC:** Ryzen 7 9700X · RX 7800 XT · 32 GB RAM · Windows/Linux dual boot
-- Full list → [my setup](https://github.com/filzdev/filzdev/blob/main/SETUP.md)
+- Full list → [Click here](https://github.com/filzdev/filzdev/blob/main/SETUP.md)
 
 ## 🤖 AI usage
 
-I use AI tools (mainly Claude) as a coding assistant: for generating code, explaining things
-and speeding up boilerplate. I review, test and run everything on real hardware before
-publishing it, and I say so in the repos where AI helped. Bugs are still on me, so please open an issue.
+I use AI tools like Claude as part of my workflow, similar to documentation or Stack Overflow:
+for prototyping, code review and learning new APIs. I decide on the architecture, review the
+code and test it before release. Repos where AI contributed significantly are marked as such in their README.
 
 ## 🎯 Interests
 
