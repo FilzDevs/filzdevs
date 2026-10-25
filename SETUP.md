@@ -1,118 +1,83 @@
-<div align="center">
+ <div align="center">
 
-# 🖨️ My Setup
+# Hi, I'm filzdev 👋
 
-![Printers](https://img.shields.io/badge/printers%20owned-19-55c5ff?style=for-the-badge)
-![Brands](https://img.shields.io/badge/brands-7-49d7aa?style=for-the-badge)
-![Running](https://img.shields.io/badge/currently%20running-2-eab85a?style=for-the-badge)
-![Works](https://img.shields.io/badge/works%20on-my%20printer-brightgreen?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Maker+%26+Developer+from+Austria;3D+Printing+%7C+Gaming+%7C+IT;Building+tools+for+my+hobbies" alt="Animated typing introduction" />
 
-*It's not a problem. It's a collection.* 🧵
+<br>
+
+![Austria](https://img.shields.io/badge/Based_in-Austria-E53935?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Bazzite-1793D1?style=for-the-badge&logo=linux&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D_Printing-Maker-00BFA6?style=for-the-badge)
 
 </div>
 
----
+Maker and developer from Austria 🇦🇹, into **3D printing**, **gaming** and **IT**.
 
-## 🐙 `git log --oneline` (my printing career)
-
-```text
-a1b2c3d bought another printer
-e4f5a6b sold printer to fund next printer
-c7d8e9f "just one more upgrade"
-0a1b2c3 fix: stopped counting
-```
+I like building tools that make my own hobbies easier, then sharing them with others.
 
 ---
 
-## ⭐ Currently running
+## 🛠️ What I'm working on
 
-| | **Snapmaker U1** | **Qidi Q2** |
-|---|---|---|
-| **Type** | Toolchanger, 4 toolheads, Klipper-based | CoreXY, enclosed |
-| **Role** | 🏆 **Main printer.** Does the daily work and is the test bench for [PrintBoard](https://github.com/filzdev/printboard) | Nice-to-have rather than need-to-have: the printer I wanted, not the one I needed |
-| **The Lore** | Four toolheads, zero excuses for single color. Multicolor without swapping filament by hand | Fresh out of the box and a very welcome upgrade to the fleet |
+### 🖨️ [PrintBoard](https://github.com/FilzDevs/PrintBoard)
 
----
+A native Linux desktop dashboard for Klipper/Moonraker printers (Fluidd/Mainsail compatible): multi-printer overview, notifications, print statistics, cost calculator and a model library.
 
-## 📚 Hall of Fame (previously owned)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)
+![Klipper](https://img.shields.io/badge/Klipper-Moonraker-36BCF7?style=flat-square)
+![Linux](https://img.shields.io/badge/Platform-Linux-555555?style=flat-square&logo=linux&logoColor=white)
 
-### 🟦 Anycubic
-
-| Model | Type | The Lore |
-|---|---|---|
-| i3 Mega S | Bedslinger | The classic gateway printer: "just a few mods" turns into a second hobby |
-| Kobra 3 Combo | Bedslinger, multicolor (ACE Pro) | Multicolor on a budget, with a side of firmware roulette |
-| Kobra S1 Combo | CoreXY, enclosed, multicolor (ACE Pro) | For everyone who wanted a Bambu but looked at the price tag |
-
-### 🟩 Bambu Lab
-
-| Model | Type | The Lore |
-|---|---|---|
-| A1 mini Combo | Bedslinger, multicolor (AMS lite) | The printer your cousin already owns. Plug, print, repeat |
-| A1 (with BMCU) | Bedslinger, third-party multicolor (BMCU) | Why pay for the AMS when you can debug a BMCU for fun? |
-| P2S Combo | CoreXY, enclosed, multicolor (AMS) | Press print, walk away, hope the Wi-Fi is in a good mood |
-| X1C Combo | CoreXY, enclosed, multicolor (AMS) | The one that started the "it just works" era (and the cloud debates) |
-
-### 🟧 Creality
-
-| Model | Type | The Lore |
-|---|---|---|
-| Ender 3 S1 | Bedslinger, direct drive | Every maker's origin story has an Ender in it |
-| Ender 3 V3 | CoreXZ | Same name, completely different printer. Ender fans, assemble |
-| K1 | CoreXY, enclosed, Klipper | Fast out of the box. The first upgrade is already in your cart |
-| K1C | CoreXY, enclosed, Klipper | The K1, but it knows about carbon fiber |
-
-### 🟨 Elegoo
-
-| Model | Type | The Lore |
-|---|---|---|
-| Centauri Carbon | CoreXY, enclosed | The "good price, bring snacks" enclosed CoreXY |
-| Neptune 4 | Bedslinger, Klipper-based | Klipper speed for pocket money |
-| Neptune 4 Pro | Bedslinger, Klipper-based | The Neptune 4, but with a "Pro" in the name |
-
-### ⬛ Mingda
-
-| Model | Type | The Lore |
-|---|---|---|
-| Magician X | Bedslinger | "Mingda? Never heard of them." (said everyone, including me) |
-
-### 🟪 Qidi
-
-| Model | Type | The Lore |
-|---|---|---|
-| Q1 Pro | CoreXY, enclosed, heated chamber, Klipper | Heated chamber for people who plan to print ABS "someday" |
-
-### 🔵 Snapmaker
-
-| Model | Type | The Lore |
-|---|---|---|
-| J1 | IDEX (independent dual extruders) | Two extruders: double the possibilities, double the things to calibrate |
+More projects coming soon – 3D printing tools, Linux utilities and game-related stuff.
 
 ---
 
-## 🖥️ PC
+## 🧰 Tech
 
-| Component | Model | The Lore |
-|---|---|---|
-| 🧠 CPU | AMD Ryzen 7 9700X | Eight cores, still waiting for the slicer to finish |
-| 🎮 GPU | Sapphire Nitro+ Radeon RX 7800 XT | Powered by pure RGB and good intentions |
-| 🔌 Motherboard | Gigabyte B650E Aorus Elite X AX Ice | White parts: now 5% faster (scientifically unproven) |
-| 💾 RAM | 32 GB Corsair Vengeance RGB Pro | Chrome tabs welcome |
-| ❄️ Cooling | Thermalright Frozen Infinity 360 White | Overkill is the only kill |
-| 📦 Case | Montech King 95 Pro | Big enough to store a Benchy |
-| 💻 OS | Windows / Linux (Bazzite) dual boot | "I use both, btw" |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,html,css,qt,linux,windows,git,github&theme=dark&perline=6" alt="Technology icons" />
+
+</div>
+
+- **Languages:** Python, JavaScript, TypeScript, C, HTML/CSS
+- **Frameworks:** Qt (PySide6)
+- **Platform:** Linux (Bazzite), Windows, Git & GitHub
 
 ---
 
-## ❓ FAQ
+## 🖥️ Setup
 
-**Why so many printers?**
-`git blame` says: me.
+- **Printers now:** Snapmaker U1, Qidi Q2
+- **Owned over the years:** 19 printers from Anycubic, Bambu Lab, Creality, Elegoo, Mingda, Qidi and Snapmaker
+- **PC:** Ryzen 7 9700X · RX 7800 XT · 32 GB RAM · Windows/Linux dual boot
+- Full list → [Click here](https://github.com/FilzDevs/filzdevs/blob/main/SETUP.md)
 
-**Which one is the best?**
-The one that is currently printing. Not the one that's clogged.
+---
 
-**Will you buy another one?**
-`Works on my machine.` 🙃
+## 🤖 AI usage
 
-<div align="center"><sub>Made with filament, caffeine and way too many nozzle swaps.</sub></div>
+I use AI tools like Claude as part of my workflow, similar to documentation or Stack Overflow: for prototyping, code review and learning new APIs. I decide on the architecture, review the code and test it before release. Repos where AI contributed significantly are marked as such in their README.
+
+---
+
+## 🎯 Interests
+
+3D printing & printer firmware · Linux & open source · PC gaming · self-hosting & automation
+
+---
+
+## 📫 Get in touch
+
+Found a bug or have an idea? Open an issue on the project, or reach me on Discord: _@sir_filzstift_
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=480&lines=Thanks+for+visiting!;Keep+building.+Keep+learning." alt="Animated closing message" />
+
+*Auf Deutsch geht's natürlich auch – schreib mir einfach.*
+
+</div>
