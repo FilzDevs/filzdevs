@@ -20,14 +20,27 @@ I like building tools that make my own hobbies easier, then sharing them with ot
 
 ## 🛠️ What I'm working on
 
-### 🖨️ [PrintBoard](https://github.com/FilzDevs/PrintBoard)
+<div align="center">
+
+### 🖨️ PrintBoard
+
+**Your 3D Printer Farm. One Dashboard.**
+
+[![PrintBoard](https://img.shields.io/badge/PrintBoard-v0.2.0-36BCF7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FilzDevs/PrintBoard)
+
+[![View Source](https://img.shields.io/badge/View_Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FilzDevs/PrintBoard)
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Klipper](https://img.shields.io/badge/Klipper-555555?style=for-the-badge)
+![Moonraker](https://img.shields.io/badge/Moonraker-00BFFF?style=for-the-badge)
+
+</div>
 
 A native Linux desktop dashboard for Klipper/Moonraker printers (Fluidd/Mainsail compatible): multi-printer overview, notifications, print statistics, cost calculator and a model library.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Klipper](https://img.shields.io/badge/Klipper-Moonraker-36BCF7?style=flat-square)
-![Linux](https://img.shields.io/badge/Platform-Linux-555555?style=flat-square&logo=linux&logoColor=white)
 
 More projects coming soon – 3D printing tools, Linux utilities and game-related stuff.
 
@@ -77,6 +90,8 @@ Found a bug or have an idea? Open an issue on the project, or reach me on Discor
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=480&lines=Thanks+for+visiting!;Keep+building.+Keep+learning." alt="Animated closing message" />
+
+<br>
 
 *Auf Deutsch geht's natürlich auch – schreib mir einfach.*
 
