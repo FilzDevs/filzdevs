@@ -22,7 +22,7 @@ More projects coming soon – 3D printing tools, Linux utilities and game-relate
 - **Printers now:** Snapmaker U1, Qidi Q2
 - **Owned over the years:** 19 printers from Anycubic, Bambu Lab, Creality, Elegoo, Mingda, Qidi and Snapmaker
 - **PC:** Ryzen 7 9700X · RX 7800 XT · 32 GB RAM · Windows/Linux dual boot
-- Full list → [Click here](https://github.com/filzdev/filzdev/blob/main/SETUP.md)
+- Full list → [Click here](https://github.com/FilzDevs/filzdevs/blob/main/SETUP.md)
 
 ## 🤖 AI usage
 
