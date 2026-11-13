@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # Hi, I'm filzdev 👋
 
@@ -50,11 +50,11 @@ More projects coming soon – 3D printing tools, Linux utilities and game-relate
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,html,css,qt,linux,windows,git,github&theme=dark&perline=6" alt="Technology icons" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,java,html,css,qt,linux,windows,git,github&theme=dark&perline=6" alt="Technology icons" />
 
 </div>
 
-- **Languages:** Python, JavaScript, TypeScript, C, HTML/CSS
+- **Languages:** Python, JavaScript, TypeScript, C, Java, HTML/CSS
 - **Frameworks:** Qt (PySide6)
 - **Platform:** Linux (Bazzite), Windows, Git & GitHub
 
